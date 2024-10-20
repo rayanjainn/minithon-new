@@ -1,1 +1,1 @@
-# minithon-new
+Minithon
